@@ -8,7 +8,7 @@ I'm currently working as a QA Tester for Manul Studio, testing Don't Look Back [
 
 🧪 QA Testing
 
-I've tested several Roblox games as a QA Tester, focusing on:
+I focus on:
 
 Finding bugs and glitches
 Reproducing bugs consistently
